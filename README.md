@@ -1,4 +1,4 @@
-#  Hiwonder toolbox for GoGoPi-Ros on ubunto
+#  Hiwonder toolbox for GoGoPi-Ros on Ubuntu Focal and Python3
 
 # Quick install 
 
